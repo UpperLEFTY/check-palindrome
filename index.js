@@ -10,3 +10,5 @@ if (str[i]!== str[len -1 -i])
   = true
 > isPalindrome('toyota')
   = false
+
+// Second method 
