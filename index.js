@@ -12,3 +12,7 @@ if (str[i]!== str[len -1 -i])
   = false
 
 // Second method .join
+
+function checkPalindrom(str) {
+    return str == str.split('').reverse().join('');
+}
