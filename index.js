@@ -6,3 +6,7 @@ if (str[i]!== str[len -1 -i])
   }
   return true;
 }
+> isPalindrome('madam')
+  = true
+> isPalindrome('toyota')
+  = false
